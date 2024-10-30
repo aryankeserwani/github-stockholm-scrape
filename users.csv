@@ -1,0 +1,468 @@
+login,name,company,location,email,hireable,bio,public_repos,followers,following,created_at
+emmabostian,Emma Bostian,SPOTIFY,"Stockholm, Sweden",,,"Front-end Software Engineer @ Spotify
+",61,6474,15,2014-05-22T17:47:40Z
+emilk,Emil Ernerfeldt,"RERUN.IO, EGUI","Stockholm, Sweden",emil.ernerfeldt@gmail.com,,"Rust coder, creator of egui, CTO of rerun.io",71,6268,21,2011-10-24T16:40:17Z
+mpj,Mattias Petter Johansson,FUN FUN FUNCTION,"Stockholm, Sweden",,True,,142,5710,23,2008-07-22T10:20:27Z
+hrydgard,Henrik Rydgård,,"Stockholm, Sweden",hrydgard@gmail.com,,,60,5550,25,2009-09-24T18:40:26Z
+eriklindernoren,Erik Linder-Norén,,"Stockholm, Sweden",eriklindernoren@gmail.com,,"ML engineer at Apple. Excited about machine learning, basketball and building things.",24,5346,11,2014-06-24T16:31:53Z
+spotify,Spotify,,"Stockholm, Sweden",opensource@spotify.com,,,272,3571,0,2010-04-24T10:03:58Z
+arvidn,Arvid Norberg,CHIA NET,"Stockholm, Sweden",arvid@libtorrent.org,,,52,3284,4,2011-03-10T07:42:41Z
+aladdinpersson,Aladdin Persson,,Stockholm,,,I like machine learning,7,2998,8,2016-11-14T20:19:46Z
+khaosdoctor,Lucas Santos,FOUNDING SOFTWARE ENGINEER @OPENVOLT,"Stockholm, Sweden",lhs.santoss@gmail.com,,"I edit fancy text files and write about it on my blog ||
+
+🏆 TypeScript Champion ||
+🏆 Microsoft MVP ||
+🏆 Google Developer Expert
+",137,2591,151,2013-01-06T19:45:41Z
+Mojang,Mojang,,"Stockholm, Sweden + Redmond, WA + many other places",,,,86,2491,0,2011-10-31T14:37:00Z
+joearms,joe armstrong,,Stockholm Sweden,joearms@gmail.com,,,35,2426,1,2009-06-29T10:46:49Z
+emilbjornson,Emil Björnson,KTH ROYAL INSTITUTE OF TECHNOLOGY,"Stockholm, Sweden",,,"Professor of Wireless Communication at KTH, Host of the YouTube channel Wireless Future, IEEE Fellow",70,2391,5,2014-03-01T12:19:17Z
+Dinnerbone,Nathan Adams,MOJANG,"Stockholm, Sweden",,,Minecraft at @Mojang.,44,2168,2,2010-06-29T16:51:57Z
+fornwall,Fredrik Fornwall,,"Stockholm, Sweden",fredrik@fornwall.net,,,133,1798,0,2010-05-14T21:24:58Z
+victorbjorklund,Victor Björklund,,"Stockholm, Sweden",victor.bjorklund@gmail.com,True,Writing ugly code but hey it works. ,27,1791,3143,2013-06-11T08:47:03Z
+wader,Mattias Wadman,,"Stockholm, Sweden",mattias.wadman@gmail.com,,,147,1557,121,2010-01-19T17:45:48Z
+bella-silveira,Isa Silveira,SPOTIFY,"Stockholm, Sweden",isabella.silveira.souza@gmail.com,True,,10,1304,18,2013-05-27T19:34:58Z
+davidsandberg,David Sandberg,,"Stockholm, Sweden",david.o.sandberg@gmail.com,,,11,1298,5,2015-10-17T09:12:33Z
+Nyholm,Tobias Nyholm,ENEBA,Stockholm,tobias.nyholm@gmail.com,,"Symfony Core team, certified Symfony developer. Speaker, writer, podcaster. Maintainer for many awesome libraries.",697,1247,41,2011-12-20T12:59:42Z
+xNotch,Markus Persson,MOJANG,"Stockholm, Sweden",markus@notch.net,,,2,1217,1,2012-06-13T08:56:41Z
+dejwid,Dawid Paszko,,"Stockholm, Sweden",dawid.paszko@gmail.com,,,61,1212,1,2013-05-07T15:15:59Z
+ivanpaulovich,Ivan Paulovich,LUNARWAY,"Stockholm, Sweden",,True,"Engineering Manager, Clean Architecture, SOLID, DDD and TDD. Speaker/Streamer",70,1167,269,2014-04-02T02:07:02Z
+marcusolsson,Marcus Olsson,ASSEMBLYAI,"Stockholm, Sweden",,,Developer Educator at @AssemblyAI,61,1164,8,2014-08-08T17:04:28Z
+EmbarkStudios,Embark,,"Stockholm, Sweden",opensource@embark-studios.com,,The future belongs to the curious,341,1146,0,2018-11-09T03:23:53Z
+torkelo,Torkel Ödegaard,GRAFANA LABS,Stockholm,torkel@grafana.org,,"Grafana Labs Co-Founder, Grafana Creator & product manager & lead architect.  ",82,1136,13,2008-05-21T07:56:22Z
+AhsanAyaz,Muhammad Ahsan Ayaz,SCANIA,"Stockholm, Sweden",,True,Author of Angular Cookbook (2x) | Speaker | Educator | Google Developers Expert (GDE) in Angular | Software Architect at Scania Group,210,1115,8,2014-11-19T13:07:52Z
+Grimler91,Henrik Grimler,,Stockholm,henrik@grimler.se,,My dotfiles and personal projects are at https://git.sr.ht/~grimler/,62,1064,12,2016-05-01T12:32:11Z
+satansdeer,Maksim Ivanov,ZERO-PLUS-X,Stockholm,satansdeer@gmail.com,,"Frontend developer at @Mojang, working on Minecraft. Took part in Battlefield V development at Dice. Teacher at Traktor School",221,1063,28,2010-10-22T21:20:07Z
+marmelroy,Roy Marmelstein,SPOTIFY,"Stockholm, Sweden",,,Ya tu sabes. ,27,971,13,2011-07-02T04:42:46Z
+LinusU,Linus Unnebäck,LOCOAPP @CTRL-ALT-DESEAT,"Stockholm, Sweden",linus@folkdatorn.se,,,872,950,146,2010-01-25T18:16:23Z
+williamboman,William Boman,,"Stockholm, Sweden",,True,"Interested in APIs & developer productivity, tooling, and experiences.",203,911,72,2014-02-17T13:29:46Z
+kushaldas,Kushal Das,SUNET,Stockholm,mail@kushaldas.in,,"Public Interest Technologist @SUNET. @psf Director, @python core developer, Tor Project Core team member. Blogs at https://kushaldas.in
+",173,889,77,2010-05-10T12:02:20Z
+Bogdan-Lyashenko,Bohdan Liashenko,ZERO-PLUS-X,"Stockholm, Sweden",lyashenkoinc@gmail.com,True,Solving problems around learning and maintaining code within complex codebase. Founder at codecrumbs.io. Follow me on twitter @bliashenko.,28,884,64,2012-08-05T12:44:04Z
+h3r2tic,Tomasz Stachowiak,,"Stockholm, Sweden",,,Rust and GPU hacker,82,866,31,2016-01-03T01:53:01Z
+rvirding,Robert Virding,ERLANG SOLUTIONS LTD.,"Stockholm, Sweden",rvirding@gmail.com,,,18,864,4,2008-05-25T20:57:46Z
+fu5ha,Gray Olson,EMBARKSTUDIOS,"Stockholm, Sweden",gray@grayolson.com,,"Artist, programmer, gamer, bit-twiddler, overall nerd. Rust/graphics dev.",92,854,22,2011-07-01T01:35:26Z
+leostera,Leandro Ostera,ABSTRACTMACHINESLAB,Stockholm,leandro@ostera.io,True,,431,831,98,2011-06-16T14:24:07Z
+glrodasz,Guillermo Rodas,,"Stockholm, Sweden",,,"Google Developer Expert in Web Technologies, Community Organizer, and Online Teacher.",111,816,24,2012-02-12T21:41:39Z
+schteppe,Stefan Hedman,,"Stockholm, Sweden",schteppe@gmail.com,,,55,773,18,2011-09-19T20:05:50Z
+ewels,Phil Ewels,SEQERALABS,"Stockholm, Sweden",phil.ewels@seqera.io,,"Product manager for open source @seqeralabs. Working with @nextflow-io, @nf-core, @MultiQC and more. 
+
+Author of @MultiQC and co-creator of @nf-core.",140,772,30,2010-11-03T09:56:30Z
+repi,Johan Andersson,,Stockholm,,,,34,770,751,2011-12-14T10:28:44Z
+isveckrali,Mehmet Can Seyhan,UDEMIG,Stockholm,mehmet.can.seyhan1@gmail.com,,Software Engineer | CEO | Instructor | Mobile(iOS & Android) | Front-end | Back-end | React | React Native | Nodejs developer,34,764,75,2016-05-12T19:49:04Z
+tulios,Túlio Ornelas,SPOTIFY,"Stockholm, Sweden",ornelas.tulio@gmail.com,,"From Brazil, living in Stockholm.
+Staff Engineer at Spotify",92,763,58,2008-11-07T17:33:57Z
+tadeuzagallo,Tadeu Zagallo,APPLE,"Stockholm, Sweden",tadeuzagallo@gmail.com,,,104,739,51,2011-05-02T21:41:15Z
+javve,Jonny Strömberg,CONFETTI,Stockholm,jonny.stromberg@gmail.com,,"Co-founder Confetti, Nordic.js and Nordic.design. Co-organizer Sthlm.js",49,722,11,2009-09-04T10:45:17Z
+thmsgbrt,Thomas Guibert,PRIMER.IO,Stockholm,th.guibert@gmail.com,True,,25,689,7,2016-01-19T22:38:25Z
+JoelBesada,Joel Besada,,"Stockholm, Sweden",joel@joelb.me,,,31,651,0,2011-03-24T14:25:26Z
+danielsaidi,Daniel Saidi,DANIEL SAIDI,"Stockholm, Sweden",daniel.saidi@gmail.com,True,Building Swift & SwiftUI apps & SDKs.,43,642,10,2010-10-06T17:59:41Z
+johannilsson,Johan Berg,BONTOUCH @MARKUPARTIST,"Stockholm, Sweden",github@markupartist.com,True,✨ 👧  ✨ 🚍 ✨ 🍷 ✨ 📖 ✨ ,50,635,22,2009-01-03T15:12:48Z
+spydon,Lukas Klingsbo,BLUE FIRE OPEN SOURCE COLLECTIVE,"Stockholm, Sweden",me@lukas.fyi,,"Flutter & Dart GDE, Flame Developer, keyboard builder, backpacker and climber.",122,591,91,2011-04-21T22:02:00Z
+pontusab,Pontus Abrahamsson,MIDDAY-AI,Stockholm,pontus@lostisland.co,True,Software Engineer using JavaScript. React and GraphQL. Organizing React Native Meetup in Stockholm.,90,587,12,2011-03-07T08:17:12Z
+EmmaDawsonDev,Emma Dawson,,"Stockholm, Sweden",emma.l.dawson@gmail.com,,"Full stack Javascript Developer | React, Typescript, Next, Node/Express, Accessibility - CPACC certified",81,581,74,2019-10-26T18:15:06Z
+veggiemonk,Julien Bisconti,,"Stockholm, Sweden",,,🤷,180,574,413,2013-09-18T13:58:07Z
+aboullaite,Mohammed Aboullaite,SPOTIFY,"Stockholm, SE",mohammed@aboullaite.me,True,"Developer, OSS and community, full-time DJ ( Docker & Java), part-time blogger.
+",69,562,22,2012-11-19T18:05:09Z
+svmiller,Steven V. Miller,STOCKHOLM UNIVERSITY,"Stockholm, Sweden",steven.miller@ekohist.su.se,,"I'm a universitetlektor at Stockholm University. My research focuses on territorial disputes, external threat, and political behavior.",91,543,264,2013-06-01T20:46:21Z
+lydell,Simon Lydell,INSURELLO,Stockholm,simon.lydell@gmail.com,,Magic Coding Creature,280,529,6,2012-08-13T07:01:16Z
+sebh,SebH,PERSONAL WORK,"Stockholm, Sweden",hillaire.sebastien@gmail.com,,Principal Engineer - Graphics - at Epic Games on Unreal Engine 5,7,527,60,2013-04-21T16:41:18Z
+slicedlime,slicedlime (Mikael Hedberg),MOJANG,Stockholm,slicedlime@gmail.com,,Tech Lead for Minecraft Java Platform at Mojang Studios.,21,521,0,2012-04-17T21:02:58Z
+pmmmwh,Michael Mok,MIMOHQ,Stockholm,pmmmwh@gmail.com,,,28,511,2,2014-10-21T15:16:18Z
+mattiasgustavsson,Mattias Gustavsson,,"Stockholm, Sweden",,,https://twitter.com/Mattias_G,23,498,24,2015-11-15T09:38:51Z
+rogeralsing,Roger Johansson,ASYNKRON AB,"Stockholm, Sweden",roger@asynkron.se,True,"Public Speaker, OSS Developer.
+Creator of @akkadotnet and @ProtoActor. 
+All things Scale. C#, Golang, Kotlin",109,485,44,2011-03-02T14:20:43Z
+korthaj,Stefan Nilsson,,Stockholm,,,"Sure, but first coffee! Former CS professor who occasionally writes about algorithms and Go at yourbasic.org.",2,480,1,2015-02-25T17:57:53Z
+ivan-liljeqvist,Ivan Liljeqvist,,Stockholm - Sweden,,True,,34,480,19,2015-02-20T21:41:24Z
+shoghicp,Shoghi,,Stockholm,,,,106,468,0,2010-12-09T16:01:27Z
+kaishin,Reda Lemeden,4RAYS,Stockholm,git@redalemeden.com,,Developer & UI Designer based in Stockholm.,68,457,20,2010-12-11T22:10:36Z
+Habrador,Erik Nordeus,INDIE,"Stockholm, Sweden",erik.nordeus@gmail.com,,Imagineer (MSc) who understands both art and code. Manager of some of the most popular C# open source libraries.,22,457,17,2012-07-17T07:30:41Z
+darius-khll,Darius Khalili,SVEA,Stockholm,alikhll@outlook.com,True,Full-stack developer,53,439,29,2016-03-05T16:20:49Z
+a7ul,Atul R,TEAM-MAGIC,"Stockholm, Sweden",atulanand94@gmail.com,True,"CTO @team-magic. 
+Created NodeGui and React NodeGui. 
+
+Co-authored https://react-made-native-easy.github.io/
+",112,436,87,2013-04-01T18:49:08Z
+foolip,Philip Jägenstedt,GOOGLE,Stockholm,,,"Long live the web! I work on Google Chrome, ex-Opera.",223,433,0,2010-11-27T11:25:04Z
+fregu856,Fredrik K. Gustafsson,KAROLINSKA INSTITUTET,"Stockholm, Sweden.",fregu856@gmail.com,True,Postdoc | Machine Learning for Computational Pathology,57,427,4,2014-04-02T07:06:47Z
+Lauszus,Kristian Sloth Lauszus,CANDELASPEEDBOAT,"Stockholm, Sweden",lauszus@gmail.com,True,My main interests are embedded devices and control systems. I'm currently making flying boats at @CandelaSpeedBoat :airplane:,69,425,13,2011-10-03T13:37:52Z
+dbarrosop,David Barroso,NHOST,"Stockholm, Sweden",dbarrosop@dravetech.com,,CTO @nhost,80,418,0,2013-12-23T10:50:40Z
+iamstarkov,Vladimir Starkov,NORDNET,"Stockholm, Sweden",,,whatever engineer,325,416,188,2011-01-12T11:43:47Z
+NicolasPetton,Nicolas Petton,FINSIT,"Stockholm, Sweden",nicolas@petton.fr,,"Software engineer, passionate about the Web, Lisp, Smalltalk and Emacs.",122,408,18,2009-09-05T10:23:52Z
+vlidholt,Viktor Lidholt,SERVERPOD,Stockholm,,,"I’m Viktor, an entrepreneur, software engineer, team leader, designer, and lecturer with Silicon Valley experience from Google and Zynga.",53,407,2,2012-03-15T09:41:12Z
+alexdrone,Alex Usbergo,GOOGLE,"Stockholm, Sweden",alexakadrone@gmail.com,,"
+Staff Software Engineer at Google.
+",37,404,8,2010-04-07T15:36:05Z
+Kin-Zhang,Qingwen Zhang,PHD @KTH-RPL; MPHIL HKUST,"Stockholm, Sweden",,,"Learning now, wait a moment. PhD Student in @KTH-RPL ",43,404,42,2018-01-12T09:03:25Z
+britzl,Björn Ritzl,DEFOLD,"Stockholm, Sweden",,,"Product owner and developer of @defold, the free and cross platform game engine.",189,401,16,2012-01-03T09:56:13Z
+carolinan,Carolina Nymark,YOAST,Stockholm,,,WordPress theme nerd. WordPressing at Yoast. WordPress.org themes team member. Creating a course about full site editing. ,106,401,106,2014-04-27T17:54:34Z
+peterhellberg,Peter Hellberg,CODE7 INTERACTIVE AND ATHEGA,"Stockholm, Sweden",peter@c7.se,,,145,399,66,2011-01-14T18:42:34Z
+sagatowski,Jakob Sagatowski,SAGATOWSKI GMBH,Stockholm | Munich,,,It's more fun to compute,19,389,0,2017-11-04T21:26:55Z
+quarnster,Fredrik Ehnbom,,"Stockholm, Sweden",,,,71,387,4,2011-11-30T10:01:56Z
+isabellaalstrom,Isabella Gross Alström,,"Stockholm, Sweden",,,Home Automation junkie. System and web developer by trade.,56,384,30,2016-09-05T13:59:28Z
+LeuisKen,Jiaxun Wei,KEYSTONE EDUCATION GROUP AB,"Stockholm, Sweden",leuisken@gmail.com,,Keep going!,39,381,104,2014-05-26T11:00:02Z
+carlthome,Carl Thomé,,"Stockholm, Sweden",,,"Music ML, audio data, self-supervised learning, differentiable programming",156,375,456,2012-04-01T17:26:32Z
+sebbekarlsson,Sebastian Karlsson (ianertson),,"Sweden, Stockholm",sebbekarlsson97@gmail.com,True,,468,373,150,2014-03-10T13:48:20Z
+Rugvip,Patrik Oldsberg,SPOTIFY,Stockholm,poldsberg@gmail.com,,Engineer @spotify. Maintainer of @Backstage,66,370,25,2013-07-10T19:59:34Z
+heyman,Jonatan Heyman,HEYLAB,"Uppsala / Stockholm, Sweden",,,,80,358,13,2009-02-13T10:03:57Z
+ubuwaits,Chad Mazzola,,"Stockholm, Sweden",,,,6,354,37,2010-03-15T14:47:39Z
+DanielRapp,Daniel Rapp,,"Stockholm, Sweden",danielrappt@gmail.com,True,,23,353,93,2010-10-17T16:07:47Z
+nevyn,Nevyn Bengtsson,ALLOVERSE AND @LOOKBACK,Stockholm (formerly San Francisco),hello@nevyn.dev,,,146,347,44,2008-11-16T17:27:57Z
+haf,Henrik Feldt,CAUSIQ,Stockholm,henrik@haf.se,,"I have no idea of the colour scheme of the bear, but I can say it looks amazing in the dark. ",345,346,80,2010-01-31T01:37:07Z
+PEZ,Peter Strömberg,BETTERTHANTOMORROW,"Stockholm, Sweden",pez@pezius.com,,Dad & husband. Clojurian dev tooling nut. Creator of Calva.,306,344,15,2008-10-20T20:03:08Z
+erlang,Erlang/OTP,,"Stockholm, Sweden",,,,20,343,0,2009-11-14T22:49:50Z
+stuffmatic,Per Gantelius,,"Stockholm, Sweden",per@stuffmatic.com,,An artist trapped in an engineer’s body. And vice versa.,15,336,0,2012-09-28T11:05:21Z
+ardacetinkaya,Arda Cetinkaya,,"Stockholm, Sweden",,True,"Software developer, sometimes blogger. I code and compile things to make life easier for people, and also I build and compile LEGO to make life fun for me.",95,336,31,2013-05-28T14:42:17Z
+pirelenito,Paulo Ragonha,MOJANG,Stockholm,paulo@ragonha.me,True,,80,334,213,2008-04-09T13:23:37Z
+MaikKlein,Maik Klein,EMBARKSTUDIOS,"Stockholm, Sweden",,,,126,334,12,2012-07-17T21:42:34Z
+icyJoseph,Joseph,,"Stockholm, Sweden",,,"Señor Developer. I write JavaScript, TypeScript, Rust, Swift, CSS. I build both front-end and back-end applications. I also like to solve coding challenges.",116,333,17,2016-08-13T20:48:52Z
+pardeike,Andreas Pardeike,SWEDISH POLICE AUTHORITY,"Stockholm, Sweden",andreas@pardeike.net,True,Enterprise Architect and Lead Developer iOS at the Swedish Police Authority. Software developer since 1984,71,329,9,2011-06-16T08:31:54Z
+pomle,Pontus Alexander,,Stockholm,,,Working with the web,106,324,72,2012-01-09T16:10:35Z
+rarkins,Rhys Arkins,MEND,"Stockholm, Sweden",rhys@arkins.net,,"@renovate-bot creator, now Product Management @mend",196,321,7,2014-01-03T14:40:53Z
+astrit,astrit,,"Stockholm, Sweden",am@astrit.co,True,,63,320,52,2012-09-22T07:42:53Z
+filipmartinsson,Filip Martinsson,,"Stockholm, Sweden",martinsson.filip@gmail.com,,,46,316,1,2014-12-11T18:49:50Z
+Marwes,Markus Westerlind,,Stockholm,marwes91@gmail.com,,,151,310,0,2011-08-03T19:24:42Z
+arirawr,Ari V,KING GAMES,Stockholm,github@ariv.se,,"Assoc. Product Director, Game Engine @ King, ex-devrel",103,306,57,2014-02-25T01:07:15Z
+boredabdel,Abdel SGHIOUAR,GOOGLE,"Stockholm, sweden",,,,46,305,1,2011-11-20T21:26:38Z
+felixjones,Felix Jones,MOJANG,Stockholm,felix@felixjones.co.uk,True,,37,304,3,2012-06-06T20:47:09Z
+CarlGroth,Carl Groth,,Stockholm,carl@cgroth.se,,"I created Carl-bot.
+These days I work as a software engineer",13,303,13,2016-08-25T20:12:44Z
+garazdawi,Lukas Backström (FKA Larsson),ERLANG SOLUTIONS,Stockholm,garazdawi@gmail.com,True,,60,301,11,2009-08-04T11:33:11Z
+monperrus,Martin Monperrus,ACME CORPORATION,"Stockholm, Sweden",martin.monperrus@gnieh.org,,"""Program code stored on disk is unlikely to cause damage until it runs"" --Stephanie Forrest",341,298,2,2011-05-22T16:45:11Z
+FredrikNoren,Fredrik Norén,AMBIENT,Stockholm,,,CPTO @AmbientRun,51,298,3,2011-12-27T10:50:18Z
+dfahlander,David Fahlander,AWARICA AB,Stockholm,david.fahlander@gmail.com,,Passionate about the usability of APIs and software. Love C64 music and 6502 assembly language. Old member of the C64 group triad alias daw.,60,291,18,2014-02-26T08:08:15Z
+themaxsandelin,Max Sandelin,TELE2,"Stockholm, Sweden",,,1x Engineer | Open-first | JavaScript,43,289,14,2014-05-20T15:29:46Z
+plajjan,Kristian Larsson,"DEUTSCHE TELEKOM / TERASTREAM, @SPRITELINK","Stockholm, Sweden",,,Network Automation Ninja at Deutsche Telekom / TeraStream.,93,285,21,2011-06-10T07:30:45Z
+ranisalt,Ranieri Althoff,VOLVO-CARS,"Stockholm, Sweden",,,computer scientist,151,285,150,2012-07-17T17:48:29Z
+DMarby,David Marby,,"Stockholm, Sweden",david@dmarby.se,,"Full-Stack Engineer. Creator of picsum.photos.
+Previously @Kong, @mullvad, @Mojang, Hypixel.",15,282,0,2009-12-31T10:40:32Z
+ilkermanap,Ilker Manap,,Stockholm / Sweden,ilkermanap@gmail.com,,,98,282,37,2013-01-14T08:53:02Z
+udoprog,John-John Tedro,,"Stockholm, Sweden",udoprog@tedro.se,True,"Same username on Telegram, Twitter. setbac on Discord and Twitch. Hit me up if you want to talk!",177,281,29,2009-08-02T12:04:25Z
+kvakvs,Dmytro Lytovchenko,ERLANG SOLUTIONS LTD,"Stockholm, Sweden",dmytro.lytovchenko@gmail.com,,,77,281,8,2010-05-27T14:32:48Z
+bjorng,Björn Gustavsson,,Stockholm,bjorn@erlang.org,,,29,281,0,2009-04-17T13:05:26Z
+mostafa,Mostafa Moradian,"GATEWAYD-IO, @GRAFANA","Stockholm, Sweden",,,SSWE @grafana | Building @gatewayd-io and other cool stuff,62,279,345,2009-02-14T17:07:09Z
+samuelkraft,Samuel Kraft,RAYCAST,Stockholm,samuelkraft@me.com,True,Design Engineer @raycast ,8,278,6,2012-08-26T20:03:26Z
+jebox,Jens Bergensten,MOJANG,"Stockholm, Sweden",jeb@mojang.com,,,0,277,0,2012-03-29T11:29:42Z
+johanandren,Johan Andrén,LIGHTBEND,"Stockholm, Sweden",johan@markatta.com,,Principal engineer in the core Akka and Kalix team at Lightbend.,95,277,0,2011-03-13T12:54:57Z
+philpax,Philpax,AMBIENT,"Stockholm, Sweden",me@philpax.me,,gamedev / systems programming / AI productionizer,152,276,107,2011-04-04T07:35:33Z
+hex2f,Leah Lundqvist,MAINLY-AI,"Sweden, Stockholm",leah@pigeon.sh,True,,96,271,29,2016-01-10T10:07:14Z
+Vintharas,Jaime,GOOGLE,Stockholm,jaime.gg83@gmail.com,,earth human,101,271,247,2010-05-23T18:01:53Z
+K-Phoen,Kévin Gomez,GRAFANA,"Stockholm, Sweden",contact+github@kevingomez.fr,True,I can git now.,162,268,80,2009-03-25T11:32:17Z
+beiciliang,Beici Liang,EPIDEMIC SOUND,"Stockholm, Sweden",beici.liang@foxmail.com,,Developer for audio related services,12,267,34,2015-04-13T10:05:27Z
+Ezzpify,Casper BL,STEPLER AB,Stockholm,,True,Refactoring will continue until morale improves.,41,265,0,2014-10-06T10:41:41Z
+pakerfeldt,Patrik Åkerfeldt,ZNIPEESPORT,"Stockholm, Sweden",patrik.akerfeldt@gmail.com,,,27,262,7,2010-02-03T17:34:14Z
+NickolajA,Nickolaj Andersen,ERICSSON,"Stockholm, Sweden",nickolaj@outlook.com,,"Senior Architect - 
+Enterprise Mobility MVP",8,259,0,2015-09-18T13:51:42Z
+Speedi13,,"ELECTRONICARTS, DICE",Stockholm,,,,24,257,4,2016-02-20T23:41:12Z
+northvolt,Northvolt,,"Stockholm, Sweden",hi@northvolt.com,,Northvolt builds and operates highly automated battery factories and infrastructure which enable the transition to a carbon neutral society.,80,257,0,2017-11-05T13:51:32Z
+soulgalore,Peter Hedenskog,WIKIMEDIA,"Stockholm, Sweden",,,Creator of sitespeed.io (@sitespeedio),72,256,42,2010-12-29T20:00:28Z
+benjdlambert,Ben Lambert,SPOTIFY,"Stockholm, SE",ben@blam.sh,,"Developer @spotify, maintainer of backstage/backstage
+Previously @just-football @bbc @bbc-sport @skybet",20,254,15,2013-02-20T09:21:53Z
+khromov,Stanislav Khromov,SCHIBSTED MEDIA GROUP,"Stockholm, Sweden",,,👨‍💻️ Full-stack software engineer,257,253,39,2011-11-20T02:19:43Z
+hraberg,Håkan Råberg,,Stockholm,,,,14,252,0,2010-03-29T07:11:15Z
+mehdy,Mehdi Khoshnoodi,TL @EPIDEMICSOUND,"Stockholm, Sweden",mehdy.khoshnoody@gmail.com,True,"Passionate about software engineering, startups and leadership.",56,252,70,2012-10-28T16:21:10Z
+koreyspace,Korey Stegared-Pace,MICROSOFT,"Stockholm, Sweden ",korey.pace@gmail.com,,AI Advocate @MSFT,71,248,10,2014-05-02T00:20:09Z
+magiconair,Frank Schröder,NORTHVOLT,"Stockholm, SE",frank@magiconair.net,True,"Distributed Systems Engineer, Go Developer, @gopcua and ex-@fabiolb maintainer. Working @northvolt building better batteries.",29,244,12,2010-03-23T21:56:17Z
+ftrvxmtrx,Sigrid Solveig Haflínudóttir,PINGTHINGSIO,"Stockholm, Sweden",sigrid@ftrv.se,,Some kind of developer? I do not really use Github anymore.,24,243,50,2010-04-20T12:45:30Z
+diogotcorreia,Diogo Correia,"STUDENT, KTH (ROYAL INSTITUTE OF TECHNOLOGY)","Lisbon, Portugal | Living in Stockholm, Sweden",me@diogotc.com,,"Programming Enthusiast. Developer of Triton MC plugin.
+Studying Cybersecurity @ KTH Royal Institute of Technology | CTF Player @ STT & RoyalRoppers",98,240,31,2014-05-02T15:07:47Z
+kaaes,Kasia,SPOTIFY,Stockholm,,,,21,239,16,2010-02-12T16:11:54Z
+frozzare,Fredrik Forsmo,,"Stockholm, Sweden",,,🇸🇪 Full-stack developer and open-sourcerer.,298,238,765,2008-06-22T18:16:25Z
+rollbear,Björn Fahller,,Stockholm,,,,26,236,1,2014-10-12T14:19:03Z
+andoma,Andreas Smas,,"Stockholm, Sweden",andreas@lonelycoder.com,,,95,234,15,2010-03-05T07:39:52Z
+oeway,Wei Ouyang,SCIENCE FOR LIFE LABORATORY,Stockholm,,True,"I am working with Deep Learning based image analysis and modeling, excited about biology, deep neural nets, open source, Python and JavaScript.",201,233,26,2010-11-12T10:29:23Z
+wictorwilen,Wictor Wilén,MICROSOFT,"Stockholm, Sweden",wictor@wictorwilen.se,,Product Leader at Microsoft,89,233,12,2013-11-04T20:18:45Z
+NamitaMalik,Namita Malik,,Stockholm,,True,"JavaScript Developer, Avid Learner",90,232,19,2014-06-15T10:19:38Z
+ChocoChipset,Hector Zarate,TAB,"Stockholm, Sweden",,,CTO and Co-Founder @ tab.technology,85,232,40,2011-02-11T15:52:43Z
+rehrumesh,Rumesh Eranga Hapuarachchi,,Stockholm,,True,"Speaker | Technical Lead | OSS
+https://lk.linkedin.com/in/rehrumesh",88,231,109,2012-07-24T15:48:44Z
+samuell,Samuel Lampa,KAROLINSKA UNIVERSITY HOSPITAL,Stockholm,samuel.lampa@gmail.com,True,"Bioinformatician in clinical microbiology. Occasionally hacking on stuff like @flowbase, @scipipe & @rdfio",401,229,201,2009-09-09T17:42:48Z
+maxulysse,Maxime U Garcia,SEQERALABS,Stockholm,maxime.garcia@seqera.io,,Bioinfomagician designing pipelines @seqeralabs | @nf-core,83,228,293,2011-09-01T14:42:50Z
+Ali-Razmjoo,Ali Razmjoo,"OWASP, @ZDRESEARCH, @SECOLOGIST",Stockholm,,,@OWASP Chapter/Project Leader,17,227,16,2014-05-23T05:27:04Z
+bluecmd,Christian Svensson,,"Stockholm, Sweden",hex+decode+me+for+real+email+68656c6c6f@cmd.nu,,Software Reliability Engineer. Love hacking on network stuff.,162,227,45,2009-11-05T20:19:08Z
+stakater,Stakater,,"Stockholm, Sweden",hello@stakater.com,,Kubernetes Expert! Stakater offers companies a highway to Kubernetes adoption for their DevSecOps automation - [✩Star] if you're using it!,430,225,0,2015-11-19T18:49:31Z
+kabirbaidhya,Kabir Baidhya,KLARNA,"Stockholm, Sweden",,True,"Software Engineer | Open Source Enthusiast | 
+
+All. Lives. Matter. 
+Be Vegan. Make Peace. ❤️",94,224,9,2013-01-19T17:14:47Z
+marcusoftnet,Marcus Hammarberg,SCHOOL OF APPLIED TECHNOLOGY - </SALT>,Stockholm Sweden,marcusoft.net@gmail.com,,,198,216,24,2010-01-18T14:45:52Z
+JensRantil,Jens Rantil,SWEET POTATO TECH AB,"Stockholm, Sweden",jens.rantil@gmail.com,,"Software engineer, engineering mathematics, traveller, nerd, juggler, guitar/african drum player. Inspired Swede.",140,216,98,2011-04-14T22:25:35Z
+hamidreza-s,Hamidreza Soleimani,SPOTIFY,Stockholm,,,Software Engineer / Architect,44,215,90,2011-12-14T13:57:21Z
+royshouvik,Shouvik Roy,,"Stockholm, Sweden",shouvik@techie.com,True,,93,215,19,2013-09-23T19:40:48Z
+Kimtaro,Kim Ahlström,,"London, Tokyo, San Francisco, Stockholm",kim.ahlstrom@gmail.com,,,43,214,38,2008-06-29T08:18:28Z
+camiloribeiro,Camilo Ribeiro,SPOTIFY,Stockholm,,,Data Engineer,73,212,136,2011-08-10T18:36:29Z
+jmpas,Jonas Mendes,,"Stockholm, Sweden",jonasandrade.mp@gmail.com,True,,44,211,278,2014-05-08T13:24:25Z
+kopiro,Flavio De Stefano,SPOTIFY,Stockholm,destefano.flavio@gmail.com,True,,184,211,183,2011-06-09T10:36:15Z
+wille,,,"Stockholm, Sweden",,True,,89,209,42,2011-08-31T17:15:28Z
+thelinmichael,Michael Thelin,,"Stockholm, Sweden",thelinmichael@gmail.com,,Software Engineer at TriOptima/OSTTRA.,11,209,31,2011-04-07T02:43:53Z
+simeg,Simon Egersand,SPOTIFY,"Stockholm, Sweden",,,⚡️ fn(Coffee) -> Code,48,205,20,2014-08-27T07:53:14Z
+happi,Erik Stenman,HAPPIHACKING AB,"Stockholm, Sweden",,,Erlang developer and writer.,6,203,4,2009-11-26T09:04:14Z
+kesla,David Björklund,,"Stockholm, Sweden",,,,272,201,228,2009-04-15T16:49:33Z
+renatoathaydes,Renato Athaydes,,"Stockholm, Sweden",renatoathaydes@hotmail.com,,"Software developer specializing in the JVM (Java, Groovy, Kotlin), with a passion for writing great applications. I also like Dart, Go, security and protocols.",182,200,3,2012-06-28T05:57:49Z
+anderseknert,Anders Eknert,STYRAINC,"Stockholm, Sweden",anders@eknert.com,,Leading Developer Relations at Styra,88,199,124,2010-12-05T22:26:10Z
+iKenndac,Daniel Kennett,,"Stockholm, Sweden",,True,"Cocoa developer, mountain biker, model railway owner. I spend my days working on @Cascable.",50,199,0,2010-12-08T16:19:19Z
+Wumpf,Andreas Reich,RERUN.IO,Stockholm,,,"Software Dev @rerun-io, co-maintainer of wgpu",84,198,80,2011-11-25T18:37:22Z
+fabianperez,Fabian Perez,SUPERNORMAL,Stockholm,,,I helped build this thing. Now building https://supernormal.com,18,197,22,2009-10-22T22:49:28Z
+Nilsen84,,,Stockholm,,,,24,197,48,2019-10-24T10:50:27Z
+eliassjogreen,Elias Sjögreen,5MONKEYS,Stockholm,elias@xn--sjgreen-b1a.se,,"🦕📦 I have made everything from GUI's to GPU compute, neural networks and a programming language or two. Founder of @denosaurs and creator of webview_deno",52,193,155,2016-05-24T17:01:22Z
+AhmedAbdulrahman,Ahmet Abdulrahman . Señor developer,,Stockholm/Sweden,a.kasapbashi@live.com,,"Husband, Founder, React Junkie, Python 🐍, GraphQL",186,192,454,2015-01-11T11:44:51Z
+5monkeys,5 Monkeys Agency,,"Stockholm, Sweden",,,,83,192,0,2011-09-01T09:38:08Z
+bhassani,,,"Stockholm, Sweden",,,"
+    
+    Malware Analyst & Reverse Engineer
+    🇨🇦 🇸🇪 
+",527,191,25,2013-08-10T02:19:30Z
+ledongthuc,Thuc Le,LIMINA AB,Stockholm,ledongthuc@gmail.com,,,90,190,4,2012-06-08T00:24:21Z
+postmodernistx,Jenni,ENGINEERING MANAGER @ NESTE,"Turku, Finland ⇄ Stockholm, Sweden",,True,Three o’clock is always too early or too late for anything you want to do.,23,188,251,2016-04-23T10:48:48Z
+elitan,Johan Eliasson,CTO @ GAZELLA,"Stockholm, Sweden",johan@eliasson.me,,Exploiting regularities to my benefit.,140,186,7,2010-07-14T11:52:38Z
+zth,Gabriel Nordeborn,ARIZON,Stockholm,,,"Frontend Developer interested in ReScript, GraphQL, Relay, React, and more. Partner @ArizonAB.",79,185,2,2012-02-21T14:53:35Z
+bicycle1885,Kenta Sato,KAROLINSKA INSTITUTE,"Stockholm, Sweden",bicycle1885@gmail.com,,,149,185,0,2011-07-10T07:02:19Z
+Temaran,Temaran,EPICGAMES,Stockholm,temaran@gmail.com,,,20,185,1,2013-07-21T21:08:42Z
+tonythomas01,Tony Thomas,BLOCKET AB,Stockholm,01tonythomas@gmail.com,True,,104,184,70,2013-04-21T06:08:30Z
+dflemstr,David Flemström,SPOTIFY,"Stockholm, Sweden",,,,246,183,4,2009-02-19T20:47:24Z
+bergquist,Carl Bergquist,GRAFANA,"Stockholm, Sweden",carl.bergquist@gmail.com,True,Grafana developer. Stockholm metrics and monitoring organizer. SRE wannabe ,21,182,20,2011-02-15T09:24:07Z
+richtr,Rich Tibbett,,"Stockholm, Sweden",,,,57,182,16,2010-11-26T10:22:35Z
+seriyps,Sergey Prokhorov,KLARNA @KLARNA,Stockholm,,True,"Moscow -> Minsk -> Stockholm;
+PHP -> Python -> Erlang",49,181,58,2010-09-30T09:08:13Z
+hsjoberg,Hampus Sjöberg,,"Stockholm, Sweden",hampus.sjoberg@protonmail.com,,"Brogrammer.
+Musician.
+Bitcoin fanatic.",121,179,31,2013-03-10T15:28:00Z
+lastguest,Stefano Azzolini,KLARNA,"Stockholm, Sweden",lastguest@gmail.com,True,"🚀 Senior Software Engineer at 𝐊𝐥𝐚𝐫𝐧𝐚
+",67,177,322,2010-01-09T02:38:23Z
+luna-duclos,Luna Duclos,ATMOZ,"Stockholm, Sweden",luna.duclos@pm.me,,Head of Development,36,177,8,2013-09-30T13:16:52Z
+rasmusbrandt,Rasmus Brandt,GOOGLE,"Stockholm, Sweden",rasmus@rasmusbrandt.se,True,,10,176,16,2012-10-20T18:45:44Z
+Jiwan,,E.A / FROSTBITE,Stockholm,,,Jean Guegant,33,175,13,2012-03-30T17:04:49Z
+psyeugenic,Björn-Egil Dahlberg,,"Stockholm, Sweden",wallentin.dahlberg@gmail.com,,,29,175,15,2009-03-12T11:17:57Z
+henninghall,Henning Hall,,"Stockholm, Sweden",,,,63,174,38,2012-04-17T16:59:18Z
+myshov,Alexander Myshov,ICONIK-IO,"Stockholm, Sweden",,,Because it's there,96,173,47,2012-09-20T02:22:53Z
+jto,Julien Tournay,,Stockholm,boudhevil@gmail.com,,Functional programmer. I use Scala. Data Engineer @Spotify,60,173,5,2010-02-05T10:48:59Z
+ranveeraggarwal,Ranveer Aggarwal,GOOGLE,Stockholm,ranveer@walagran.com,True,Software Engineer.,55,173,19,2013-03-22T13:08:12Z
+robertoaloi,Roberto Aloi,WHATSAPP,"Stockholm, Sweden",,True,"Software Engineer, Erlang Passionate, Father.",100,172,19,2009-06-04T09:04:46Z
+simonlindholm,Simon Lindholm,,"Stockholm, Sweden",simon.lindholm10@gmail.com,,,73,172,21,2010-08-20T17:12:16Z
+zegl,Gustav Westling,SANALABS,"Stockholm, Sweden",gustav@westling.dev,True,Coder etc.,129,172,31,2009-01-20T14:23:04Z
+jacksonfdam,Jackson F. de A. Mafra,,"Stockholm, Sweden",jacksonfdam@gmail.com,True,A Brazilian software engineer living in Stockholm 🇸🇪.,279,171,200,2011-06-30T01:27:46Z
+pliden,Per Liden,,"Stockholm, Sweden",,,,4,170,13,2015-04-04T18:14:03Z
+supercurio,François Simond,,Stockholm,,True,,25,169,1,2010-09-18T14:39:35Z
+blommegard,Simon Blommegård,MADEBYBOWTIE,Stockholm,,,,17,169,0,2009-05-19T19:39:17Z
+andras-nemes,Andras Nemes,,"Stockholm, Sweden",andras.nemes1979@yahoo.se,,"I'm an Engineering Manager located in Stockholm, Sweden.",31,169,0,2013-04-11T19:27:38Z
+niklasfrykholm,Niklas Gray,AUTODESK,Stockholm,niklas.frykholm@gmail.com,,,11,169,0,2013-02-13T08:22:32Z
+Eyevinn,Eyevinn Technology Open Source Software Center,,Stockholm,work@eyevinn.se,,"Find tools, examples, proof-of-concepts of video streaming related software",243,168,0,2014-04-15T09:15:34Z
+72lions,Thodoris Tsiridis,72LIONS,"Stockholm, Sweden",info@72lions.com,,"Staff Engineer @Spotify, creator of Forecast, hobbyist photographer, Greek who lives in Sweden.",13,166,56,2010-12-12T20:30:42Z
+jkotlinski,Johan Kotlinski,,Stockholm,,,,34,166,4,2013-01-13T21:24:32Z
+Jake-Shadle,Jake Shadle,EMBARKSTUDIOS,"Stockholm, Sweden",,,,33,164,89,2012-09-10T08:32:06Z
+daniel-lundin,Daniel Lundin,MILKYWIRE,Stockholm,d-dog@d-dog.se,,,70,163,8,2011-01-03T18:54:47Z
+elk-audio,Elk Audio,,Stockholm,tech@elk.audio,,Code & packages for Elk Audio OS. Community plugins available at: https://github.com/elk-community,39,163,0,2019-09-04T08:44:46Z
+mropert,Mathieu Ropert,,"Stockholm, Sweden",,,,25,162,0,2009-07-04T15:21:46Z
+nadam,Adam Nybäck,ANYRO,Stockholm,adam@anyro.se,,Mainly focusing on Radix DLT and Telegram at the moment.,32,162,8,2010-03-24T21:55:10Z
+arthurdenner,Arthur Denner,KINDRED GROUP,"Stockholm, Sweden",arthurdenner7@gmail.com,True,"Domain Architect Front-End. From Brazil, living in Sweden. Addicted to TV shows, especially nordic.",227,162,151,2015-08-13T01:32:42Z
+ezeoleaf,Eze Olea Figueroa,BAFFIN BAY NETWORKS,Stockholm,ezeoleaf@gmail.com,True,Lead Backend Engineer at @baffinbay ,80,161,190,2014-12-31T15:34:26Z
+ptz0n,Erik Eng,DANIEL WELLINGTON,"Stockholm, Sweden",erik@eng.se,,"Dad, engineer etc. ☕?",64,161,222,2010-02-09T13:33:46Z
+Nevon,Tommy Brunn,KLARNA,"Stockholm, Sweden",tommy.brunn@gmail.com,,Open source maintainer and principal engineer for developer services at Klarna,148,159,26,2009-05-12T09:00:30Z
+pythops,Badr,PYTHOPS,Stockholm,contact@pythops.com,,>_ Terminal Is All You Need,34,159,10,2019-11-09T00:33:19Z
+algomaster99,Aman Sharma,KTH ROYAL INSTITUTE OF TECHNOLOGY,"Stockholm, Sweden",amansha@kth.se,,"PhD student at KTH Royal Institute of Technology
+""If a 5 year old can understand your research, you are already a world-expert.""",58,159,123,2018-01-07T11:22:11Z
+GeneKao,Gene Ting-Chun Kao,ANSYS,Stockholm,genekao@acm.org,,R&D in Computational Geometry Processing,54,158,472,2011-10-31T16:12:16Z
+charliejeppsson,Charlie Jeppsson,,Stockholm,charlie.jeppsson1@gmail.com,,,14,158,32,2016-10-23T11:41:02Z
+op,Örjan Fors,,"Stockholm, Sweden",o@42mm.org,,"Developer at Modal (x-Northvolt, x-29k, x-Spotify). Free software! Good beer. Wild punk. No human is illegal. Love! 🦋",62,158,50,2009-02-17T15:11:10Z
+freben,Fredrik Adelöw,SPOTIFY,"Stockholm, SE",,,"Engineer @spotify, maintainer of github.com/backstage",6,157,0,2012-12-21T10:47:11Z
+zimme,Simon Fridlund,ZYMEGO,"Köping / Stockholm, Sweden",simon+github@fridlund.email,,"Nerd, Open-Source Creator and Maintainer, Husband, Father, Chief Arcitect",56,156,158,2011-11-23T11:46:42Z
+renard314,,SPOTIFY,Stockholm,Renard.Wellnitz@googlemail.com,,,21,156,2,2011-05-30T08:18:14Z
+hussius,Mikael Huss,CODON CONSULTING,Stockholm,mikael.huss@gmail.com,True,,38,154,0,2010-08-23T13:32:49Z
+andreineculau,Andrei Neculau,YSOFTWAREAB,"Stockholm, Sweden, Earth",andrei.neculau@gmail.com,True,Product-minded Software Consultant,191,154,157,2011-04-04T11:04:25Z
+possan,Per-Olov Jernberg,LINGIO,Stockholm,possan@possan.se,,,195,154,11,2008-11-07T12:40:53Z
+AndersAbel,Anders Abel,SUSTAINSYS,"Stockholm, Sweden",,,,41,153,6,2013-06-30T18:16:50Z
+maciekish,Maciej Swic,APPULIZE,"Stockholm, Sweden",maciej@swic.name,True,,84,153,0,2010-10-16T16:43:48Z
+Monereum,Monereum Network,SVENSK TEKNIK AB,"Stockholm, Sweden",,,A permissioned implementation of Ethereum supporting data privacy.,1,152,0,2019-08-17T06:33:30Z
+ssheikholeslami,Sina Sheikholeslami,"DISTRIBUTED COMPUTING GROUP, KTH",Stockholm,,,student @dcatkth,72,151,90,2012-05-24T07:23:23Z
+dvdplm,David,,"Stockholm, Sweden",dvdplm@gmail.com,,,107,151,4,2008-07-26T20:19:14Z
+lindell,Johan Lindell,,Stockholm,johan@lindell.me,True,,93,151,15,2010-05-23T18:00:34Z
+jiwidi,Jaime Ferrando Huertas,,Stockholm,fhjaime96@gmail.com,,Stay Hungry. Stay Foolish,96,150,101,2015-02-06T12:16:42Z
+mayojava,Mayowa Adegeye,SPOTIFY,"Stockholm, Sweden",mayox4ever2006@gmail.com,,"Android Engineer. Backend API Engineer. Lover of algorithms, architecture and clean code",65,150,41,2012-12-14T00:29:45Z
+camilaibs,Camila Belo,SPOTIFY,"Stockholm, Sweden",camilaibs@gmail.com,,Software Engineer,39,150,13,2013-12-31T03:34:35Z
+etnt,Torbjörn Törnkvist,-,"Stockholm, Sweden",kruskakli@gmail.com,,Erlang coder since 1991.,128,149,54,2008-04-08T16:35:36Z
+birkjernstrom,Birk Jernström,POLARSOURCE,Stockholm,,,Started Polar.sh (@polarsource) to get developers paid coding on their passions,32,149,119,2010-05-19T20:00:53Z
+FabrizioBrancati,Fabrizio Brancati,TRUECALLER,"Stockholm, Sweden",fabrizio.brancati@gmail.com,True,"A lifelong learner, automation enthusiast, DevOps lover, and Mobile Architect with an eye on design, since iPhone OS 3 | @kodecocodes writer",5,149,0,2012-10-27T11:09:03Z
+gdomiciano,Geisy Domiciano,,"Stockholm, Sweden",,True,"I have been working as front end developer since 2011, I'm familiarized with HTML, CSS, Javascript, Vue.js, Nuxt.js, Vuex et cetera.",39,148,27,2013-06-07T18:44:55Z
+mahmudalhakim,Mahmud Al Hakim,SWEDISH WEB ACADEMY AB,Stockholm Sweden,,,Web Developer and IT Instructor,168,147,88,2016-01-11T10:33:47Z
+daniellee,Daniel Lee,EMBARKSTUDIOS,"Stockholm, Sweden",,,Irishman living and working in Sweden. @EmbarkStudios ,61,147,35,2010-10-10T21:35:28Z
+jishi,Jimmy Shimizu,,"Stockholm, Sweden",,,,20,146,0,2013-01-01T22:40:30Z
+JCash,Mathias Westerdahl,REFOLD,Stockholm,,,"Engine developer at @defold, a free game engine. Try it out at http://www.defold.com
+
+// CTO @refold, https://www.refold.io/
+",57,146,5,2012-01-18T20:47:27Z
+davidsjoberg,David Sjoberg,,"Stockholm, Sweden",,,Happy R user. Twitter: @davsjob,15,146,1,2018-10-14T15:51:19Z
+pocketjoso,Jonas Ohlsson Aden,DATADOG,"Stockholm, Sweden",,,"Engineering Team lead @ Datadog.
+Creator of https://criticalcss.com.",24,145,7,2014-04-06T00:22:55Z
+mhagander,Magnus Hagander,REDPILL LINPRO,"Stockholm, Sweden",,True,,71,145,12,2009-12-31T12:19:49Z
+IuryAlves,Iury Alves de Souza,TIBBER,"Stockholm, Sweden",,True,"Always tinkering, sometimes writing code",216,145,126,2012-07-06T22:18:24Z
+alvarlagerlof,Alvar Lagerlöf,MATSMART MATSMART,"Stockholm, Sweden",,True,Hopelessly curious.,59,145,96,2015-09-25T09:44:38Z
+KTH-RPL,"Robotics, Perception and Learning @KTH",,"Stockholm, Sweden",,,,13,144,0,2018-11-22T16:44:42Z
+Kerem1989,Kerem Bjälvenäs Tazedal,IT-HÖGSKOLAN,"Stockholm, Sweden",,,"👋 Hello there! I'm Kerem, a passionate backend developer currently studying at IT-Högskolan
+",14,143,197,2022-01-30T11:12:15Z
+bergmark,Adam Bergmark,,"Stockholm, Sweden",adam@bergmark.nl,,,262,143,5,2009-07-01T13:19:00Z
+csharpschool,CSharp School,CSHARP SCHOOL,"Stockholm, Sweden",,,,65,143,0,2017-01-21T14:18:00Z
+superdump,Robert Swain,,"Stockholm, Sweden",,,,77,142,5,2010-06-10T19:06:36Z
+OskarSigvardsson,Oskar Sigvardsson,XLN AUDIO,Stockholm,,,"Developer and engineering manager. I put bits and pieces of unfinished experiments here. Feel free to check them out, but caveat emptor.",30,142,0,2014-03-25T14:55:42Z
+mollstam,Tobias Mollstam,,Stockholm,,,,70,142,1,2010-09-02T18:48:32Z
+matinzd,Matin Zadeh Dolatabad,LENDO AB,"Stockholm, Sweden",,,Working casually on open-source 👨‍💻,77,142,254,2016-12-27T18:55:22Z
+felixmulder,Felix Mulder,,"Stockholm, Sweden",felix [dot] mulder [at] gmail [dotcom],True,,105,142,14,2012-03-12T18:36:20Z
+mptre,Anton Lindqvist,,"Stockholm, Sweden",,,,10,142,1,2009-01-03T09:41:06Z
+xaviervia,Fernando Via Canel,,"Stockholm, Sweden",fernando.via@gmail.com,,"All my philosophy of life, I took from tvtropes.",104,142,26,2010-08-31T05:32:10Z
+iconara,Theo,AWS,"Stockholm, Sweden",theo@iconara.net,True,"I work for AWS, public code is my own unless otherwise indicated.",135,141,14,2009-04-13T16:15:23Z
+cyberw,Lars Holmberg,RED SHIRT CONSULTING AB,Stockholm,,,Performance engineer & consultant in performance testing. Maintainer of Locust (https://locust.io/),13,141,12,2011-10-17T21:22:09Z
+erkie,Erik Rothoff Andersson,FEEDERCO,"Stockholm, Sweden",erik.rothoff@gmail.com,,Co-founder @feederco ,36,140,2,2008-08-18T18:20:56Z
+daniguerrato,Daniela Guerrato,,Stockholm,daniguerrato@gmail.com,True,UX Designer,3,140,3,2009-08-04T19:26:02Z
+lefant,Fabian Linzberger,,"Stockholm, Sweden",e@lefant.net,,"Happy hacker. I like machine learning, functional programming and startups.",52,138,370,2009-03-17T09:24:23Z
+SamLarenN,Samuel Skoog,,"Sverige, Stockholm",skoog.samuel@gmail.com,,KTH student,14,138,8,2017-02-04T12:36:37Z
+hfreire,Hugo Freire,ANTIFRAGILE-SYSTEMS,"Stockholm, Sweden",hugo@exec.sh,True,,73,138,8,2011-05-07T17:50:28Z
+EmilPoulsen,Emil Poulsen,PLSNDESIGNTECH,"Stockholm, Sweden",emil-poulsen@hotmail.com,,"Computational design, AEC tech, digital architecture and structural engineering.",28,137,34,2015-03-23T22:07:32Z
+ffdead,David Lindkvist,14ISLANDS,"Stockholm, Sweden",,,Creative tech director @ 14islands,22,136,11,2010-09-29T08:54:05Z
+perclasson,Per Classon,GOOGLE,Stockholm,,,Software Engineer 👨🏼‍💻,25,135,24,2012-05-23T16:24:51Z
+klacke,Claes Wikstrom,,Stockholm,klacke@gmail.com,,,5,135,0,2009-02-17T20:22:22Z
+kolmodin,Lennart Kolmodin,GOOGLE,"Stockholm, Sweden",kolmodin@gmail.com,,,32,134,21,2009-11-23T22:08:01Z
+TheMolkaPL,Aleksander Jagiello,CRAFTSERVE,"Stockholm, Sweden",themolkapl@gmail.com,,,106,134,166,2013-05-31T09:25:51Z
+Hjdskes,Jente Hidskes Ankarberg,GRIFFINBANK,"Stockholm, Sweden",dev@hjdskes.nl,,,46,134,0,2011-12-13T16:11:44Z
+simonduq,Simon Duquennoy,,"Stockholm, Sweden",,,"IoT builder. Co-founder of @contiki-ng
+https://twitter.com/simonduquennoy",15,133,0,2012-02-10T10:51:40Z
+panoply,ΝΙΚΟΛΑΣ,BRIXTOL,Stockholm • Amsterdam,,,Lexeme.,88,133,30,2014-03-23T21:43:14Z
+vlaaad,vlaaad,REFOLD,Stockholm,v.proczenko@gmail.com,,,22,133,0,2011-04-15T23:05:03Z
+hkupty,Henry John Kupty,ZNIPEESPORT,"Stockholm, Sweden",,,f: C₈H₁₀N₄O₂ → λ ,104,133,65,2012-11-01T02:31:22Z
+miyconst,Kostiantyn Cherniavskyi,MODULAR MANAGEMENT,Stockholm,,,https://www.youtube.com/c/Miyconst,8,132,0,2014-01-18T06:50:56Z
+marcelm,Marcel Martin,,Stockholm,marcel.martin@scilifelab.se,,,25,132,0,2011-04-12T13:47:50Z
+willu47,Will Usher,KTH,"Stockholm, Sweden",wusher@kth.se,,"Associate Professor, @KTH-dESA, Worked on @nismod, @SALib admin. Interests include system models, uncertainty, sensitivity analysis",80,132,74,2013-02-28T13:55:31Z
+codechips,ilia mikhailov,,"Stockholm, Sweden",,,,59,131,0,2009-01-07T06:41:24Z
+freider,Elias Freider,MODAL LABS,"Stockholm, Sweden",,,"Member of technical staff @ Modal Labs
+
+Previously at Spotify, EdQu, Kry/Livi
+Original co-author of luigi workflow tool",20,131,4,2012-09-21T12:01:17Z
+tobiassjosten,Tobias Sjösten,STIM,"Stockholm, Sweden",,,Web technician and open source aficionado. Head of Software Engineering at @stimtech.,37,131,45,2009-03-20T07:12:55Z
+helioloureiro,Helio Loureiro,LOUREIRO INC,"Stockholm, Sweden",helio@loureiro.eng.br,,"I brew my own beer, I write my own code and I use Linux.  Nuff said.",59,130,38,2014-01-23T08:58:27Z
+keeto,Mark Obcena,SPOTIFY,"Stockholm, SE",markeeto@gmail.com,,,40,130,7,2008-08-03T09:51:39Z
+albinekb,Albin Ekblom,QADOTTECH,Stockholm,albinekblom@gmail.com,True,☔️☔️☔️☔️☔️☔️☔️☔️☔️☔️☔️☔️☔️☔️,134,130,39,2013-07-17T02:10:58Z
+linus,Linus G Thiel,BONNIERNEWS,"Stockholm, Sweden",,True,,39,130,97,2009-07-15T16:14:32Z
+juleZZZ,Julia Zudikova,,"Stockholm, Sweden",,,,6,130,5,2013-05-13T17:24:05Z
+jfacorro,Juan Facorro,KLARNA,"Stockholm, Sweden",,,,94,129,28,2012-03-10T08:02:22Z
+emiloberg,Emil Öberg,BIT UP NORTH AB,"Stockholm, Sweden",emil@bitupnorth.com,True,Brain for hire for software developing organisations.,80,128,7,2013-06-11T18:46:48Z
+nicktoumpelis,Nick Toumpelis,,"Stockholm, Sweden",nicktoumpelis@me.com,,"Product Manager (Marketing Line), Efficy (prev. APSIS) | ex Spotify, Bugsense (acq. Splunk), Yabie (prev. Kaching) | Aberystwyth, Manchester alumni",4,128,109,2009-04-11T13:50:28Z
+zydeco,Jesús A. Álvarez,TINK-AB,"Stockholm, Sweden",zydeco@namedfork.net,,,68,127,0,2009-11-25T19:42:09Z
+MansMeg,Måns Magnusson,UPPSALA UNIVERSITET,Stockholm / Uppsala,,,,67,127,64,2012-09-30T17:16:42Z
+Olivia5k,Olivia 5000,,"Stockholm, Sweden",,,,98,127,54,2009-11-19T12:52:07Z
+nordcloud,Nordcloud Engineering,,"Helsinki, London, Munich, Oslo, Poznań, Stockholm, Malmo, Copenhagen",info@nordcloud.com,,Nordcloud Engineering and Open Source. ,98,127,0,2015-09-03T09:31:50Z
+ashwinvis,Ashwin V. Mohanan,ENCCS,Stockholm,,,"Scientific programmer, Ph.D, KTH alumnus.",176,127,355,2014-10-11T17:47:38Z
+williamhogman,William Högman Rudenmalm,SOBELIO,Stockholm,me@whn.se,True,"
+    
+Busy building stuff! Coding with Rust 🦀 + LLMs right now. I'll keep going until a 30-line bash script replaces me.",86,127,69,2009-10-23T17:05:33Z
+Mange,Magnus Bergmark,DEVBOX @DEVBOX-AB,"Stockholm, Sweden",me@mange.dev,True,,67,127,20,2008-02-28T14:47:10Z
+MrAlek,Alek Åström,DONE SERVICES,"Stockholm, Sweden",mr@alek.se,,Co-Founder of doneservices.co,47,127,0,2012-03-03T10:59:07Z
+mansmahamat,Mansour Mahamat-salle,,Stockholm,,,Front-end Software Engineer,63,126,53,2019-12-09T13:28:28Z
+meadsteve,Steve Brazier,ZERO-PLUS-X,Stockholm,,True,:unicorn: :rainbow: ,144,126,138,2012-04-20T14:34:53Z
+kbladin,Kalle Bladin,NVIDIA,"Stockholm, Sweden",kallebladin@gmail.com,True,Software engineer with a passion for graphics and visualization.,22,126,3,2013-04-11T16:26:48Z
+dorukgezici,Doruk Gezici,DEMAAI,Stockholm • Istanbul,doruk@gezici.me,True,Full Stack Engineer,51,126,87,2015-11-30T21:37:34Z
+zmstone,zmstone,EMQ TECHNOLOGIES,Stockholm Sweden,zmstone@gmail.com,,"EMQX, Kafka4beam",120,126,59,2009-12-08T11:10:02Z
+fesplugas,Francesc Esplugas,,Barcelona / Stockholm,,,Ruby on Rails enthusiast and long distance runner. Don’t ask me if I like sprinting.,12,125,2,2008-03-10T16:16:46Z
+HaraldNordgren,Harald Nordgren,DIETDOCTOR,"Stockholm, Sweden",haraldnordgren@gmail.com,,"Head of Engineering at @dietdoctor. 
+Coding since 2004. MSc thesis on video compression. Working mostly in Golang, Python, Bash, JS and C/C++.",310,125,29,2014-11-05T11:39:08Z
+Technigo,Technigo,,"Stockholm, Sweden",hello@technigo.io,,Teaching code remote.,238,125,0,2017-07-21T11:46:02Z
+phaller,Philipp Haller,KTH ROYAL INSTITUTE OF TECHNOLOGY,"Stockholm, Sweden",,,,68,125,0,2010-05-28T15:12:41Z
+bombsimon,Simon Sawert,VALIDIO-IO,"Stockholm, Sweden",simon@sawert.se,,I code and stuff.,142,124,196,2013-01-12T00:42:51Z
+teoljungberg,Teo Ljungberg,,"Stockholm, Sweden",teo@teoljungberg.com,,,101,124,52,2011-05-25T20:11:09Z
+maandree,Mattias Andrée,,"Stockholm, Sweden",,,I HAVE MOVED TO CODEBERG,192,123,5,2012-04-04T13:08:21Z
+GoranAviani,Goran Aviani,,"Stockholm, SE",,,"Software engineer, technology enthusiast, pub quiz lover.",64,123,1,2018-01-16T19:19:30Z
+Victorystick,Oskar Segersvärd,,"Stockholm, Sweden",,,,49,123,16,2011-04-01T11:55:48Z
+INCF,International Neuroinformatics Coordinating Facility (INCF),,Stockholm,info@incf.org,,,62,122,0,2011-04-29T02:26:10Z
+xlson,Leonard Gram,GRAFANA,"Stockholm, Sweden",,,Tech Lead Grafana Enterprise,13,122,21,2009-08-13T12:12:41Z
+emlun,Emil Lundberg,YUBICO,"Stockholm, Sweden",emil@emlun.se,,"Engineer, physicist, tinkerer.",94,121,4,2012-01-22T15:51:14Z
+cheerfulstoic,Brian Underwood,ERLANG SOLUTIONS,"Stockholm, Sweden",brian@brian-underwood.codes,,Lover of #elixirlang,142,121,2,2010-06-10T01:22:23Z
+AGulev,Alexey Gulev,DEFOLD @REFOLD @POTATOJAM,Stockholm,me@agulev.com,,"Developer @refold and @defold
+Co-founder @potatojam",73,121,72,2012-08-24T06:23:23Z
+krlvi,Kiril Videlov,GITBUTLERAPP,Stockholm & Berlin,,,"Co-founder / CTO @gitbutlerapp 
+Software Enthusiast",79,121,50,2013-04-01T22:21:11Z
+fluffybeing,Rahul Ranjan,SPOTIFY,Stockholm,rahul.rrixe@gmail.com,True,Improving a bit by bit.,43,120,49,2013-03-05T21:08:00Z
+amir-rahnama,Amir Rahnama,KTH,"Stockholm, Sweden",amir.rahnama@gmail.com,True,PhD Candidate at KTH (Royal Institute of Technology),31,120,172,2013-11-22T11:08:23Z
+liufuyang,Fuyang Liu,COMSOL,Stockholm,,,Software Engineer COMSOL. Currently looking for stuff to code in Rust in his free time... ,172,120,7,2009-12-04T02:23:23Z
+dalen,Erik Dalén,FISHBRAIN,Stockholm,erik.gustav.dalen@gmail.com,,Infrastructure Engineer at @fishbrain.,99,120,6,2008-04-15T10:41:30Z
+saltsthlm,School of Applied Technology - Stockholm,,"Stockholm, Sweden",,,,101,120,0,2018-04-10T12:01:35Z
+enceladosaurus,Jesse Shanahan,PELTARION,"Stockholm, Sweden",jess.c.shanahan@gmail.com,,"ML dev with a passion for humanitarian tech & AI ethics. Former astrophysicist. Lover of fuzzy creatures, poisonous plants, video games, and powerlifting.",11,120,18,2017-06-23T12:40:49Z
+episerver,Optimizely Content and Customized Commerce,,"Stockholm, Sweden",,,,113,119,0,2012-02-20T07:40:06Z
+dc0d,Kaveh Shahbazian,,"Stockholm, Sweden",,,"Programming, FunctionalProgramming, Learning continuously about Clean Code, Teamwork, TDD, Agile, DDD, Approaching Legacy Code and Technical Debt - Minimalist",32,119,47,2013-03-10T23:08:07Z
+MoIbrahim15,Mohamed Ibrahim,SEB,Stockholm,mohamed_ibrahim15@hotmail.com,,A passionate Software Engineer with almost 9 years of experience in Android Development.,17,119,15,2016-07-26T21:06:09Z
+kallepersson,Kalle Persson,SPOTIFY,Stockholm,gh@kallepersson.se,,,8,119,28,2008-03-07T13:11:16Z
+zarinfam,Saeed Zarinfam,0+X,Sweden - Stockholm ,zarinfam.s@gmail.com,True,📖 Lifelong Learner 👨‍💻☕️ Programmer ✍️ Technical Writer 🛠️ Maker,67,119,102,2011-09-15T07:08:24Z
+ln5,Linus Nordberg,,"Stockholm, Sweden",linus@nordberg.se,,,34,118,113,2008-12-19T10:10:46Z
+ugurcanlacin,Uğurcan Laçın,LINKEDIN.COM/IN/UGURCANLACIN,"Stockholm,Sweden",ugurcanlacin@gmail.com,,Software Engineer at Volvo Cars,38,118,35,2014-02-08T21:11:23Z
+emilolsson,Emil Olsson,,"Stockholm, Sweden",,,,2,118,51,2010-03-14T14:38:57Z
+jamesmcm,James McMurray,,Stockholm,,,"I now work as a Data Engineer, and am generally interested in data engineering and programming.",111,117,374,2009-02-16T08:57:24Z
+dainnilsson,Dain Nilsson,YUBICO,"Stockholm, Sweden",dain@yubico.com,,,25,117,4,2009-10-16T18:57:16Z
+kalasjocke,Joakim Ekberg,,"Stockholm, Sweden",jocke.ekberg@gmail.com,,,22,117,72,2008-04-16T22:34:16Z
+beeequeue,Adam Haglund,IZETTLE,"Stockholm, Sweden",adam@haglund.dev,,Full-stack dev with a focus on user and developer experiences,47,116,25,2010-11-08T14:08:50Z
+nikreiman,Nik Reiman,,"Stockholm, Sweden",,,,11,116,73,2010-06-23T09:36:10Z
+azr,Adrien Delorme,,Stockholm,,,,125,116,52,2011-09-04T04:07:52Z
+EmilStenstrom,Emil Stenström,ODEVO-DEV,"Stockholm, Sweden",emil@emilstenstrom.se,,Head of AI Product at Odevo. Previously founded @kundo.,49,115,7,2010-03-16T21:21:20Z
+sedflix,siddharth,KING,"Stockholm, Sweden",sedflix@gmail.com,True,...,162,115,132,2016-08-21T13:38:12Z
+embark-studios,,EMBARKSTUDIOS,Stockholm,,,,0,115,0,2019-06-24T09:54:49Z
+inear,Einar Öberg,TJING,Stockholm,einaroberg@gmail.com,,,17,114,2,2011-07-29T07:23:48Z
+jiexiong2016,Jiexiong Tang,,"Stockholm, Sweden",,,Ax=b,26,114,14,2016-10-07T12:21:11Z
+calleluks,Calle Luks,PLIROCO,"Stockholm, Sweden",calle@luks.in,,"Founder and ""CTO"" @pliroco. Previously @thoughtbot.",35,114,19,2009-03-24T18:53:22Z
+OmalPerera,Omal Perera,,"Stockholm, Sweden",omalperera8@gmail.com,True,React Native engineer,72,114,3,2015-03-25T09:15:50Z
+cabral,Felipe Benites Cabral,FELIPEBCABRAL,Stockholm,felipe.benites@gmail.com,,,25,114,12,2010-01-14T20:16:08Z
+rakibtg,Kazi Mehedi Hasan,,"Stockholm, Sweden",hi@rakibtg.com,True,maker.,147,113,12,2013-09-08T17:56:14Z
+ennru,Enno Runne,LIGHTBEND,"Stockholm, Sweden",,,"Father of three, Husband, JVM professional, Scala Stockholm organizer, Jfokus co-organizer, Swede by choice, VP Engineering @ Lightbend",97,113,0,2010-10-28T19:27:24Z
+KTH,KTH Royal Institute of Technology (Official),,"Stockholm, Sweden",,,We are Sweden’s largest technical research and learning institution.,128,112,0,2015-06-16T17:11:05Z
+gabrielPeart,Gabriel Peart,,Stockholm,,,,892,112,0,2010-02-02T15:01:55Z
+mariorodeghiero,Mario Rodeghiero,COMEON GROUP,Stockholm - Sweden,mario.rodeghiero@gmail.com,True,"Front end Engineer
+#ReactJS #Redux #Javascript #NodeJS #Python #Rust #electronjs ",88,112,58,2016-12-20T11:11:54Z
+murilopolese,Murilo Polese,,Stockholm,,,,111,111,154,2011-08-02T16:51:19Z
+VZout,Viktor Zoutman,EMBARKSTUDIOS,"Stockholm, Sweden",viktorzoutman@vzout.com,,"Graphics Programmer
+
+@EmbarkStudios",21,111,19,2013-08-25T09:47:02Z
+jimdowling,Jim Dowling,HOPSWORKS,Stockholm,jim@logicalclocks.com,,"CEO Hopsworks.
+Assoc. Prof at KTH, Stockholm. ",140,111,15,2012-06-29T05:37:30Z
+beshrkayali,Beshr Kayali Reinholdsson,,"Stockholm, Sweden",me@beshr.com,True,Systems Engineer @ Ericsson,70,111,25,2008-07-14T16:24:17Z
+toxinu,Geoffrey,FREELANCER,"Stockholm, Sweden",toxinu@gmail.com,True,"Hej, I’m Geoffrey L., Fullstack Software Engineer / DevOps working remotely.
+My work is full of Python, Django, Javascript, React, Vue.js, Linux, and Sysop. <3",76,111,71,2010-06-01T14:55:53Z
+koslib,Konstantinos Livieratos,EMBARKSTUDIOS,"Stockholm, Sweden",me@koslib.com,,"Go, Kubernetes, Scalability",30,110,145,2012-10-13T15:50:59Z
+MohammadKarimi23,Mohammad,KLARNA,"Stockholm, Sweden",eecs.mk74@gmail.com,True,Code enthusiast ,22,110,98,2014-05-14T00:21:31Z
+Lutando,Lutando Ngqakaza,,"Stockholm, Sweden",,True,"Fanatic of .NET Core & Akka.Net. holds secret love for OpenIdConnect, REST, & Hypermedia.",0,110,81,2012-06-11T11:47:49Z
+KrisJelbring,Kristoffer Jelbring,RORO INTERACTIVE,"Stockholm, Sweden",,,Technical Director at Roro Interactive,0,110,0,2012-01-03T08:15:27Z
+joakimbeng,Joakim Carlstein,ABOVIQ,Stockholm,joakim@beng.se,,,164,110,5,2012-02-10T19:46:21Z
+thiagokimo,Thiago Rocha,,"Stockholm, Sweden",kimo@kimo.io,True,,50,109,105,2012-07-06T13:27:10Z
+CelikCebrail,Cebrail Celik,,Sweden/Stockholm,,,Full Stack Developer | React Front-End | React Native Mobile | Back-End Developer.,4,109,120,2023-12-25T14:42:00Z
+oalsing,Oscar Alsing,BOAPPA,Stockholm,oscar.alsing@gmail.com,,,39,109,0,2012-09-16T12:23:56Z
+djui,Uwe Dauernheim,"VOIAPP, @GRACEHEALTH","Stockholm, Sweden",,True,,245,109,46,2009-06-28T19:40:15Z
+linhduongtuan,Linh T. Duong,KTH ROYAL INSTITUTE OF TECHNOLOGY,Stockholm - Sweden,linhduongtuan@yahoo.com,,"Obtain a PhD in medical microbiology from the University of Greifswald, Germany. Interested in Microbiology, Molecular biology, Epidemiology, & Machine Learning",1170,108,128,2016-09-23T06:28:35Z
+epatel,Edward Patel,HTTP://WWW.MEMENTION.COM,"Stockholm, Sweden",edward.patel@memention.com,,,91,108,54,2009-05-05T08:10:03Z
+jakobmattsson,Jakob Mattsson,ROKOS CAPITAL MANAGEMENT,London & Stockholm,jakob.mattsson@gmail.com,,,102,108,5,2010-01-10T23:11:32Z
+zvonicek,Petr Zvoníček,SPOTIFY,"Stockholm, Sweden",,,"Swift, Objective-C, Python, JS.",53,108,27,2012-03-15T14:13:35Z
+ogenstad,Patrick Ogenstad,,Stockholm,,,,38,108,0,2014-02-16T06:12:37Z
+hemangshah,Hemang,,"Stockholm, Stockholm County, Sweden",hemangshah.in@gmail.com,,iOS Engineer,23,107,142,2013-01-19T09:26:47Z
+thinkverse,Kim Hallberg,,"Stockholm, Sweden",work@hallberg.kim,True,Freelance Web Developer 👨‍💻,259,107,61,2012-08-26T11:45:35Z
+niklasekstrom,Niklas Ekström,,"Stockholm, Sweden",,,,27,107,2,2013-12-04T12:15:40Z
+powercode,Staffan Gustafsson,DICE,"Stockholm, Sweden",,,,53,107,5,2013-02-07T20:27:31Z
+danielgustafsson,Daniel Gustafsson,MICROSOFT,"Stockholm, Sweden",,,"@postgres and @curl hacker, ☕ drinker and 🐰🕳️ explorer",59,106,23,2010-07-03T10:39:21Z
+mikaelkaron,Mikael Karon,WETRYFUN,Stockholm,mikael@karon.se,,"Lover of OSS - creator of @troopjs, @mu-lib and @open-learning.",47,106,17,2010-11-12T07:29:49Z
+cagdass,Çağdaş,,Stockholm,badass@alumni.bilkent.edu.tr,True,Hello world!,49,106,195,2014-01-05T20:03:34Z
+Snuffleupagus,Jonas Jenwald,,"Stockholm, Sweden",jonas.jenwald@gmail.com,,,4,106,0,2012-10-31T15:08:37Z
+lorainegarutti,Loraine Barcha Garutti,MENTIMETER,Stockholm,loraine.garutti@gmail.com,,Software Engineer in Test,33,105,45,2020-02-12T04:10:14Z
+eandre,André Eriksson,ENCOREDEV,"Stockholm, Sweden",eandre@gmail.com,,,48,105,0,2010-10-03T16:32:38Z
+logicalclocks,Hopsworks,,Stockholm,info@hopsworks.ai,,Developers of Hopsworks,114,105,0,2017-03-30T14:04:41Z
+inoerp,Nishit,,Stockholm,ndas.oracle@gmail.com,True,"Go, Rust, Flutter/Dart, Java/ADF/Spring, PL/SQL, Vue/Js, PHP, C/C++...Oracle Cloud, EBS R12, SAP ECC/HANA..SCM, Finance, Projects",19,104,0,2014-01-30T08:26:09Z
+numbata,Andrei Subbota,MENTIMETER,Stockholm,subbota@gmail.com,True,,78,104,157,2009-05-08T12:21:53Z
+mengstr,Mats Engstrom,,"Stockholm, Sweden",,,,145,103,40,2010-07-07T13:19:54Z
+Sajjon,Alexander Cyon,ALEXANDER CYON CONSULTING AB,"Stockholm, Sweden",,,"FOSS author (mostly cryptography), father, husband and Depeche Mode fan.
+
+Swift | Rust | HoMM3 | Chess",377,103,79,2011-06-21T14:10:37Z
+jeffersongirao,Jefferson Girão,SEB EMBEDDED,"Stockholm, Sweden",jefferson@girao.net,,Software Plumber at SEB Embedded,4,102,15,2009-04-05T21:31:21Z
+TimonPost,Timon,EMBARKSTUDIOS,Stockholm,,,"Hakuna Matata! 
+",68,102,71,2016-06-16T07:49:04Z
+willianpaixao,willian.eth,,"Stockholm, Sweden",willian@ufpa.br,,Vem tranquilo.,75,102,103,2010-02-10T18:06:55Z
+iffyio,Ifeanyi Ubah,,Stockholm,,True,,32,101,3,2014-06-06T14:28:43Z
+wiledal,Hugo Wiledal,BITS-TECHNOLOGY,"Stockholm, Sweden",hugo.wiledal@gmail.com,,𝕨𝕖𝕓𝕞𝕒𝕤𝕥𝕖𝕣,35,101,8,2011-09-08T08:02:37Z
+erickguan,Erick Guan,,Stockholm,,,"Build, learn and create value.",73,101,20,2010-06-05T13:18:36Z
+amadeu01,Amadeu Cavalcante Filho,EPIDEMICSOUND,Stockholm - Sweden,amadeu.cavalcante@epidemicsound.com,True,Mobile developer. Swift lover. ,134,101,305,2015-03-24T13:24:54Z
+hannseman,Hannes Ljungberg,TEENAGEENGINEERING,"Stockholm, Sweden",Hannes.ljungberg@gmail.com,,,60,101,153,2011-04-29T11:51:58Z
+BullishVince,Vincent W,,"Stockholm, Sweden",,,🧠  💻,36,101,7,2020-02-29T22:37:37Z
+mridgers,Martin Ridgers,,"Stockholm, Sweden",,,,1,101,0,2012-02-12T21:45:15Z
+volkansahin45,Volkan Şahin,,"Stockholm, Sweden",volkansahindev@gmail.com,True,Android Engineer @iZettle @paypal,18,101,63,2016-11-11T20:07:47Z
+fhqvst,Filip Hallqvist,TALOSTRADING,Stockholm,filiphallqvist@gmail.com,True,"Into all things web, music, and great UX. Building an institutional grade platform for digital assets at @talostrading.
+",25,101,31,2014-03-20T16:54:39Z
